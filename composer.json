@@ -1,0 +1,18 @@
+{
+    "name": "pedro/creativephp",
+    "autoload": {
+        "psr-4": {
+            "Pedro\\Creativephp\\": "src/",
+            "app\\" : "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhmdelbadry74",
+            "email": "m7mdelbadry72@gmail.com"
+        }
+    ],
+
+
+    "require": {}
+}
